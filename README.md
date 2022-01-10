@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-test 
+test link to our first weekly page: [[2022 week 01]]
 
 You can use the [editor on GitHub](https://github.com/eveningoflight/eveningoflight/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

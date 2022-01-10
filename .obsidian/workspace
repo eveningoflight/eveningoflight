@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "bf8a41ec7d65f169",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad748171b306e080",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7bc3f337fbc9750",
+    "type": "split",
+    "children": [
+      {
+        "id": "caa99bd127e164d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8559363993999a17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "641a37b9ed8da51e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "74d753993b1e983e",
+    "type": "split",
+    "children": [
+      {
+        "id": "30663655fef95426",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27849a30b99c104f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "724b28979dcea43c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.5,
+    "collapsed": true
+  },
+  "active": "ad748171b306e080",
+  "lastOpenFiles": [
+    "README.md",
+    "2022 weekly pages/2022 week 01.md",
+    "2022m01/Aureole - Alunarian Bellmaw (2021).md",
+    "2022m01/Ross Goldstein - Timoka (2020).md",
+    "2022 weekly pages/2022 week 02.md",
+    "templates/release header.md",
+    "templates/eol review.md",
+    "compositions/miri it is.md",
+    "Untitled 1.md",
+    "2022_01_goldstein 1.jpg"
+  ]
+}
